@@ -1,0 +1,9 @@
+# Pamięć podręczna Pythona
+__pycache__/
+*.pyc
+
+# Pliki środowiska i konfiguracji PyCharma
+.idea/
+.venv/
+venv/
+*.tmp
